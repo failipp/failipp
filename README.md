@@ -1,6 +1,6 @@
 ## Hi there, my name is Philipp! 👋
 
-I'm a computer science student Ulm University of Applied Sciences (Technische Hochschule Ulm).
+I'm a computer science student at Ulm University of Applied Sciences (Technische Hochschule Ulm).
 
 ### 💬 My languages
 * Python
