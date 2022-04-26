@@ -1,6 +1,6 @@
 ## Hi there, my name is Philipp! 👋
 
-I'm a computer science student at Ulm University of Applied Sciences (Technische Hochschule Ulm).
+I'm a software developer from Bavaria, Germany.
 
 ### 💬 My languages
 * Python
@@ -9,10 +9,9 @@ I'm a computer science student at Ulm University of Applied Sciences (Technische
 * Java
 * Typescript/Javascript
 
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently practicing ...
+* Web Development
 * Test Driven Development
-* F#
-* Rust
 
 <!--
 **failipp/failipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
